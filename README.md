@@ -50,8 +50,10 @@ jupyter notebook
 
 3. Install the following extensions in vscode:
 
-   - Remote - Containers
+   - Remote Development
    - Python
+   - Jupyter
+   - Any other plugins you like
 
 4. Open the project in vscode and click on the green icon in the bottom left corner and select `Reopen in Container`
 
