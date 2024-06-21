@@ -244,12 +244,14 @@ dependencies:
       - grpcio==1.63.0
       - h5py==3.11.0
       - idna==3.7
+      - imageio==2.34.1
       - importlib-resources==6.4.0
       - isort==5.13.2
       - joblib==1.4.2
       - kagglehub==0.2.5
       - keras==3.3.3
       - kiwisolver==1.4.5
+      - lazy-loader==0.4
       - libclang==18.1.1
       - markdown==3.6
       - markdown-it-py==3.0.0
@@ -260,6 +262,7 @@ dependencies:
       - ml-dtypes==0.3.2
       - mypy-extensions==1.0.0
       - namex==0.0.8
+      - networkx==3.3
       - numpy==1.26.4
       - nvidia-cublas-cu11==11.11.3.6
       - nvidia-cublas-cu12==12.3.4.1
@@ -277,6 +280,7 @@ dependencies:
       - nvidia-nvjitlink-cu12==12.3.101
       - onnx==1.16.0
       - onnx-graphsurgeon==0.3.12
+      - opencv-python==4.10.0.84
       - opt-einsum==3.3.0
       - optree==0.11.0
       - pandas==2.2.2
@@ -290,8 +294,10 @@ dependencies:
       - pytz==2024.1
       - requests==2.31.0
       - rich==13.7.1
+      - scikit-image==0.24.0
       - scikit-learn==1.4.2
       - scipy==1.13.0
+      - seaborn==0.13.2
       - tensorboard==2.16.2
       - tensorboard-data-server==0.7.2
       - tensorflow==2.16.1
@@ -303,6 +309,7 @@ dependencies:
       - tensorrt-lean==8.6.1
       - termcolor==2.4.0
       - threadpoolctl==3.5.0
+      - tifffile==2024.6.18
       - toml==0.10.2
       - tqdm==4.66.4
       - tzdata==2024.1
