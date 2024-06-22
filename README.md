@@ -1,7 +1,7 @@
-### 1. Name the data repos as follows and keep them in the root folder:
+### 1. Name the data repos as follows and keep them in the `data` folder:
 
-`/stage_2_test_images`
-`/stage_2_train_images`
+`/data/stage_2_test_images`
+`/data/stage_2_train_images`
 
 ### 2. Download and save the data from the following google-drive link:
 
