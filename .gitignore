@@ -2,3 +2,8 @@
 * text=auto
 /data
 /Location.txt
+*.pyc
+*.1
+output/model4.keras
+output/model5.keras
+output/model6.pth
