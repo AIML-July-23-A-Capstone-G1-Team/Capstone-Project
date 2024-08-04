@@ -7,3 +7,4 @@
 output/model4.keras
 output/model5.keras
 output/model6.pth
+output/object_*
